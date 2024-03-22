@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "logo.png",
 
-  repo: "avalonc/navigator-jyutping",
+  repo: "avalonc/navigator_jyutping",
 
   docsDir: "src",
 

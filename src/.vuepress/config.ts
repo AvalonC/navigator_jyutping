@@ -6,7 +6,7 @@ export default defineUserConfig({
     ["script", {src: "/navigator-jyutping/js/soundplay.js"}],
   ],
 
-  base: "/navigator-jyutping/",
+  base: "/navigator_jyutping/",
 
   lang: "zh-TW",
   title: "Navigator Jyutping",
