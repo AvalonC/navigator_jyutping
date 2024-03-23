@@ -80,15 +80,22 @@ highlights:
         details: 支援iOS，iPadOS <br/ > <a href="https://github.com/Cantoboard/Cantoboard">源代碼</a>
         link: https://apps.apple.com/cn/app/cantoboard/id1556817074
 
-      - title: TypeDuck
-        icon: copy
-        details: 廣東話,有得打。支援全平臺（Windows, macOS, iOS, Android）。
-        link: https://typeduck.hk/
+  - header: 全平臺輸入法
+    description: 咩都有得打！
+    image: /assets/image/advanced.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+    features:
 
-      - title: Rime粵拼
-        icon: copy
-        details: Rime 粵拼支援全平臺（Windows, macOS, Linux, iOS, Android）。
-        link: https://jyutping.net/
+    - title: TypeDuck
+      icon: copy
+      details: 廣東話,有得打。支援全平臺（Windows, macOS, iOS, Android）。
+      link: https://typeduck.hk/
+
+    - title: Rime粵拼
+      icon: copy
+      details: Rime 粵拼支援全平臺（Windows, macOS, Linux, iOS, Android）。
+      link: https://jyutping.net/
 
 copyright: false
 footer: 2024-present BIS Navigator
