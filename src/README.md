@@ -62,7 +62,7 @@ highlights:
 
       - title: GBoard-the Google board
         icon: search
-        details: 與你的Android系統最相配的鍵盤
+        details: 同你嘅Android系統最配嘅鍵盤
         link: https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=zh_HK
 
       - title: 搜狗輸入法粵拼鍵盤

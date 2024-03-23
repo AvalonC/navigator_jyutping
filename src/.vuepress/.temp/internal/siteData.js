@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/navigator_jyutping/\",\"lang\":\"zh-TW\",\"title\":\"Navigator Jyutping\",\"description\":\"Navigator粵拼\",\"head\":[[\"script\",{\"src\":\"/navigator-jyutping/js/soundplay.js\"}],[\"link\",{\"rel\":\"icon\",\"href\":\"/navigator_jyutping/favicon.ico\"}]],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/navigator_jyutping/\",\"lang\":\"zh-TW\",\"title\":\"Navigator Jyutping\",\"description\":\"Navigator粵拼\",\"head\":[[\"script\",{\"src\":\"/navigator_jyutping/js/soundplay.js\"}],[\"link\",{\"rel\":\"icon\",\"href\":\"/navigator_jyutping/favicon.ico\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

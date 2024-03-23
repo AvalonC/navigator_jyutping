@@ -1,5 +1,5 @@
 ---
-title: 说文解字
+title: 説文解字
 index: false
 icon: person-chalkboard
 category:

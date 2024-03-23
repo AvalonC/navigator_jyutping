@@ -3,7 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
-      text: "粤拼学习",
+      text: "粵拼學習",
       icon: "book",
       prefix: "learning/",
       link: "learning/",

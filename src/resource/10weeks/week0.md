@@ -4,6 +4,8 @@ icon: laptop-code
 category:
   - 資源
 ---
+## 下載必須材料
+[請點此下載或列印Workbook](https://ling.cuhk.edu.hk/jyutpingteaching/typing_10weeks.pdf)
 
 <VidStack
     src="youtube/bYdchGEoKxg"

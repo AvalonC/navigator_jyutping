@@ -1,5 +1,5 @@
 ---
-title: 资源共享
+title: 資源共享
 index: false
 icon: laptop-code
 category:

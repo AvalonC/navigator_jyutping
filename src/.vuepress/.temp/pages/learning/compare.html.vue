@@ -57,17 +57,17 @@
 <td style="text-align:center">35</td>
 <td style="text-align:center">33</td>
 <td style="text-align:center">21</td>
-<td style="text-align:center">23</td>
+<td style="text-align:center">13</td>
 <td style="text-align:center">22</td>
 </tr>
 <tr>
 <td style="text-align:center">舉例</td>
-<td style="text-align:center"><a onclick="_play('faan1')">番 faan1</a></td>
-<td style="text-align:center"><a onclick="_play('faan2')">反 faan2</a></td>
-<td style="text-align:center"><a onclick="_play('faan3')">汎 faan3</a></td>
-<td style="text-align:center"><a onclick="_play('faan4')">煩 faan4</a></td>
-<td style="text-align:center"><a onclick="_play('faan5')">飯 faan5</a></td>
-<td style="text-align:center"><a onclick="_play('faan6')">範 faan6</a></td>
+<td style="text-align:center"><a onclick="_play('si1')">詩 si1</a></td>
+<td style="text-align:center"><a onclick="_play('si2')">史 si2</a></td>
+<td style="text-align:center"><a onclick="_play('si3')">試 si3</a></td>
+<td style="text-align:center"><a onclick="_play('si4')">時 si4</a></td>
+<td style="text-align:center"><a onclick="_play('si5')">市 si5</a></td>
+<td style="text-align:center"><a onclick="_play('si6')">事 si6</a></td>
 </tr>
 </tbody>
 </table>
@@ -173,7 +173,9 @@
 <h3 id="_5-ong-ung" tabindex="-1"><a class="header-anchor" href="#_5-ong-ung"><span>5. ong -&gt; ung</span></a></h3>
 <p>漢語拼音中的 ong 和粵拼的 ung 發音是一樣的，國際音標都是 [ʊŋ]</p>
 <p>粵拼中的 ong 是普通話中不存在的發音，國際音標爲 [ɔŋ]。</p>
-<p>例：鍾 zung1 江 gong1</p>
+<p>例：</p>
+<p><a onclick="_play('zung1')">鍾 zung1</a></p>
+<p><a onclick="_play('gong1')">江 gong1</a></p>
 <h2 id="音系區別" tabindex="-1"><a class="header-anchor" href="#音系區別"><span>音系區別</span></a></h2>
 <h3 id="_1-韻腹aa-與-a" tabindex="-1"><a class="header-anchor" href="#_1-韻腹aa-與-a"><span>1. 韻腹aa 與 a</span></a></h3>
 <p>普拼的 a 等同於粵拼的 aa，國際音標是 [a]。</p>
@@ -286,6 +288,7 @@
 </table>
 <h3 id="_6-聲母-ng" tabindex="-1"><a class="header-anchor" href="#_6-聲母-ng"><span>6.聲母 ng-</span></a></h3>
 <p>這個音的國際音標是 [ŋ]。普通話裏沒有這個聲母，而粵語裏的聲母 ng- 和零聲母 Ø- 是有所不同的。</p>
+<p>零聲母是無需移動舌頭直接發聲，而ng-需要舌根略微後移，略微有抵住喉嚨的感覺，然後發生。（可以普通話讀一讀鷹這個字，感受讀到ing的時候此時口腔的感覺）</p>
 <p>普通話母語者初學這個聲母會有點困難，因爲普通話裏的 ng 只存在於韻尾（後鼻音），需要稍加練習在聲母位置發這個音。</p>
 <table>
 <thead>
@@ -336,7 +339,7 @@
 </table>
 <h3 id="_8-韻尾-p、-t、-k" tabindex="-1"><a class="header-anchor" href="#_8-韻尾-p、-t、-k"><span>8.韻尾 -p、-t、-k</span></a></h3>
 <p>這三個韻尾就是傳統意義上的「入聲」。因爲普通話裏沒有入聲，所以對於普通話母語者來說需要花點時間來練習，下面的例字音頻可能要反覆播放對比才能聽出區別。</p>
-<p>粵語裏的入聲韻尾 -p、-t、-k 很像英語單詞 cap、put、book 末尾的輔音，但一個最大的區別是，粵語的入聲韻尾都是不除阻的（國際音標分別是 [p̚]、[t̚]、[k̚]），也就是在音節最後不會像英語一樣呼出空氣。</p>
+<p>粵語裏的入聲韻尾 -p、-t、-k 很像英語單詞 cap、put、book 末尾的輔音，但一個最大的區別是，粵語的入聲韻尾都是不除阻的（國際音標分別是 [p̚]、[t̚]、[k̚]），也就是音節末尾需保持類似英語p t k的口型，但不會像英語閲讀一樣呼出空氣。</p>
 <table>
 <thead>
 <tr>
