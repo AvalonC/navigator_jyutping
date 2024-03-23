@@ -7,6 +7,11 @@
 <p>在學習拼音方案分別之前，先要理解粵語的「六調」。</p>
 <p>在粵拼方案中，不同於普通話注音的將音調標記在字母之上，粵拼將音調以數字1-6展示。</p>
 <h2 id="音調" tabindex="-1"><a class="header-anchor" href="#音調"><span>音調</span></a></h2>
+<div class="hint-container tip">
+<p class="hint-container-title">關於音調</p>
+<p>初學者或非母語者應當關注單字的發音，學習過程中以避免形成懶音，錯音或吞音。輸入的時候亦應該輸入音調來强化記憶</p>
+<p>但粵語母語者在使用粵拼輸入法的時候可以不輸入音調，因爲打出正確的粵拼即可將範圍限制在一定的字内。然而，輸入音調可以提高輸入效率，令輸入法更快理解你想要輸入的詞匯或短語。</p>
+</div>
 <p>粵語中有六個聲調，不同於普通話的四個聲調。普通話裏的四個聲調如下：</p>
 <figure><img src="/Mandarin.png" alt="普通話音調" tabindex="0" loading="lazy"><figcaption>普通話音調</figcaption></figure>
 <table>

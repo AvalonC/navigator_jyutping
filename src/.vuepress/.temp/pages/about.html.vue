@@ -1,4 +1,5 @@
 <template><div><h2 id="鳴謝" tabindex="-1"><a class="header-anchor" href="#鳴謝"><span>鳴謝</span></a></h2>
+<p>本站現時正在收集各類意見，歡迎粵語母語者，粵語學習者和使用者，内地用家致信提供建議 <a href="mailto:Guanzhang.WANG@my.cityu.edu.hk">點此發送郵件</a></p>
 <p>本站音頻由<a href="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/" target="_blank" rel="noopener noreferrer">粵語審音配詞字庫<ExternalLinkIcon/></a>提供</p>
 <p>本站内容大量參考了來自粵語計算語言學基礎建設組 (CanCLID)的<a href="https://jyutping.org/" target="_blank" rel="noopener noreferrer">Jyutping.org<ExternalLinkIcon/></a>站點内容，對此組織的工作致以衷心感謝！</p>
 <VPCard

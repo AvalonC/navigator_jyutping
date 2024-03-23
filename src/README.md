@@ -80,7 +80,6 @@ highlights:
         details: 支援iOS，iPadOS <br/ > <a href="https://github.com/Cantoboard/Cantoboard">源代碼</a>
         link: https://apps.apple.com/cn/app/cantoboard/id1556817074
 
-
       - title: Rime 粵拼
         icon: copy
         details: Rime 粵拼支援全平臺（Windows, macOS, Linux, iOS, Android）。
@@ -90,7 +89,6 @@ highlights:
         icon: copy
         details: 廣東話,有得打。支援全平臺（Windows, macOS, iOS, Android）。
         link: https://typeduck.hk/
-
 
 copyright: false
 footer: 2024-present BIS Navigator
