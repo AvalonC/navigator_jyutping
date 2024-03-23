@@ -51,7 +51,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
 
-      - title: macOS Ventura & Sonoma
+      - title: macOS Ventura及更新版本
         icon: circle-info
         details: 現已支持粵拼輸入，查看設置方法
         link: https://support.apple.com/zh-hk/guide/chinese-input-method/cimcba750589/104/mac/13.0
