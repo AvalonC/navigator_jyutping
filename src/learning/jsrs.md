@@ -20,7 +20,7 @@ category:
 
 ::: tip 特別鳴謝
 
-本頁鏈接和資源由香港理工大學人文學院中國語文教學中心的[翻轉粵語教室](https://www.polyu.edu.hk/clc/cantonese/about/)提供
+本頁部分鏈接和資源由香港理工大學人文學院中國語文教學中心的[翻轉粵語教室](https://www.polyu.edu.hk/clc/cantonese/about/)提供
 
 :::
 

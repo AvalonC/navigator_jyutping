@@ -11,7 +11,7 @@
 </div>
 <div class="hint-container tip">
 <p class="hint-container-title">特別鳴謝</p>
-<p>本頁鏈接和資源由香港理工大學人文學院中國語文教學中心的<a href="https://www.polyu.edu.hk/clc/cantonese/about/" target="_blank" rel="noopener noreferrer">翻轉粵語教室<ExternalLinkIcon/></a>提供</p>
+<p>本頁部分鏈接和資源由香港理工大學人文學院中國語文教學中心的<a href="https://www.polyu.edu.hk/clc/cantonese/about/" target="_blank" rel="noopener noreferrer">翻轉粵語教室<ExternalLinkIcon/></a>提供</p>
 </div>
 <h2 id="聲母表" tabindex="-1"><a class="header-anchor" href="#聲母表"><span>聲母表</span></a></h2>
 <table>
