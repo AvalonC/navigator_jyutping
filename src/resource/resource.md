@@ -14,6 +14,11 @@ category:
 [粵音資料集叢](https://jyut.net/)
 
 ## 讀物
+
+[「粵語音系」明信片（Jyutping Postcard） （參考化學元素週期表設計的聲母韻母表）](http://jyutping.lt.cityu.edu.hk/res/2018/The_Cantonese_Sound_System_Full.pdf)
+
+[「『粵語音系』明信片」的設計靈感和使用方法（Jyutping Postcard Intro slides）](http://jyutping.lt.cityu.edu.hk/res/2018/Intro_to_Jyutping_Postcard_Remark.pdf)
+
 [粵語拼音速遞（來自香港中文大學自學中心）](https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/index.aspx)
 
 [冚唪唥粵文](https://hambaanglaang.hk/)

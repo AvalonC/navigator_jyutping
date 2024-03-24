@@ -3,6 +3,8 @@
 <p><a href="https://words.hk/" target="_blank" rel="noopener noreferrer">Words.hk<ExternalLinkIcon/></a></p>
 <p><a href="https://jyut.net/" target="_blank" rel="noopener noreferrer">粵音資料集叢<ExternalLinkIcon/></a></p>
 <h2 id="讀物" tabindex="-1"><a class="header-anchor" href="#讀物"><span>讀物</span></a></h2>
+<p><a href="http://jyutping.lt.cityu.edu.hk/res/2018/The_Cantonese_Sound_System_Full.pdf" target="_blank" rel="noopener noreferrer">「粵語音系」明信片（Jyutping Postcard） （參考化學元素週期表設計的聲母韻母表）<ExternalLinkIcon/></a></p>
+<p><a href="http://jyutping.lt.cityu.edu.hk/res/2018/Intro_to_Jyutping_Postcard_Remark.pdf" target="_blank" rel="noopener noreferrer">「『粵語音系』明信片」的設計靈感和使用方法（Jyutping Postcard Intro slides）<ExternalLinkIcon/></a></p>
 <p><a href="https://www.ilc.cuhk.edu.hk/workshop/Chinese/Cantonese/Romanization/index.aspx" target="_blank" rel="noopener noreferrer">粵語拼音速遞（來自香港中文大學自學中心）<ExternalLinkIcon/></a></p>
 <p><a href="https://hambaanglaang.hk/" target="_blank" rel="noopener noreferrer">冚唪唥粵文<ExternalLinkIcon/></a></p>
 <p><a href="https://www.cantonese.com.hk/" target="_blank" rel="noopener noreferrer">Cantonese.com.hk<ExternalLinkIcon/></a></p>

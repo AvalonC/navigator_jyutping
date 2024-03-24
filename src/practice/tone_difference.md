@@ -9,6 +9,8 @@ category:
 
 六個音節的例字分別是「<ruby>詩<rt>si1</rt></ruby> <ruby>史<rt>si2</rt></ruby> <ruby>試<rt>si3</rt></ruby> <ruby>時<rt>si4</rt></ruby> <ruby>市<rt>si5</rt></ruby> <ruby>事<rt>si6</rt></ruby>」。
 
+點擊音調組合，則會順序播放兩個音調，供讀者辨別。
+
 ![粵語六調](/Jyutping.png)
 
 <div style="display: flex;flex-direction: row;align-items: center;flex-wrap: wrap;justify-content: center;">

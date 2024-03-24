@@ -1,5 +1,6 @@
 <template><div><p>下表以 si 爲示範音節，提供粵語中 6 個聲調所有兩兩組合之發音，幫助讀者區分各個聲調。</p>
 <p>六個音節的例字分別是「<ruby>詩<rt>si1</rt></ruby> <ruby>史<rt>si2</rt></ruby> <ruby>試<rt>si3</rt></ruby> <ruby>時<rt>si4</rt></ruby> <ruby>市<rt>si5</rt></ruby> <ruby>事<rt>si6</rt></ruby>」。</p>
+<p>點擊音調組合，則會順序播放兩個音調，供讀者辨別。</p>
 <figure><img src="/Jyutping.png" alt="粵語六調" tabindex="0" loading="lazy"><figcaption>粵語六調</figcaption></figure>
 <div style="display: flex;flex-direction: row;align-items: center;flex-wrap: wrap;justify-content: center;">
 <table>

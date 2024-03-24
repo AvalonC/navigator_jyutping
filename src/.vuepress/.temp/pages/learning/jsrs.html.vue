@@ -1,4 +1,15 @@
-<template><div><h2 id="聲母表" tabindex="-1"><a class="header-anchor" href="#聲母表"><span>聲母表</span></a></h2>
+<template><div><div class="hint-container info">
+<p class="hint-container-title">發聲</p>
+<p>文中所有藍色之實例文字可點擊發聲，受限于資源請求的時間，點擊後將有一定時間的遲滯。
+試用例：
+| <a onclick="_play('zi1')">資</a> |
+<a onclick="_play('seon3')">訊</a> |
+<a onclick="_play('hai6')">系</a> |
+<a onclick="_play('tung2')">統</a> |
+<a onclick="_play('hok6')">學</a> |
+<a onclick="_play('hai6')">系</a> |</p>
+</div>
+<h2 id="聲母表" tabindex="-1"><a class="header-anchor" href="#聲母表"><span>聲母表</span></a></h2>
 <table>
     <tr>
         <th></th>
@@ -268,12 +279,12 @@
         <td> [ɛː] </td>
         <td> <a onclick="_play('se1')">e 些 </a> </td>
         <td> </td>
-        <td> <a onclick="_play('deu1')">eu 掉 </a> </td>
-        <td> <a onclick="_play('lem1')">em 舐 </a> </td>
+        <td> <a onclick="_play('deu6')">eu 掉 </a> </td>
+        <td> <a onclick="_play('lem2')">em 舐 </a> </td>
         <td> </td>
         <td> <a onclick="_play('zeng6')">eng 鄭 </a> </td>
         <td> <a onclick="_play('gep6')">ep 夾 </a> </td>
-        <td> et 坺 </td>
+        <td> et </td>
         <td> <a onclick="_play('sek6')">ek 石 </a> </td>
     </tr>
     <tr>
@@ -299,7 +310,7 @@
         <td> </td>
         <td> <a onclick="_play('goeng1')">oeng 疆 </a> </td>
         <td> </td>
-        <td bgcolor="lightblue">oet</td>
+        <td bgcolor="lightblue"><a onclick="_jyutpingPlay('oet6')"> oet</a></td>
         <td> <a onclick="_play('goek3')">oek 腳 </a> </td>
     </tr>
     <tr>
@@ -330,7 +341,7 @@
     <tr>
         <td>a</td>
         <td>[ɐ]</td>
-        <td bgcolor="lightblue"> <a onclick="_play('laa3')"> a 嘞 </a></td>
+        <td bgcolor="lightblue"> <a onclick="_jyutpingPlay('la3')"> a 嘞 </a></td>
         <td> <a onclick="_play('zai1')"> ai 擠 </a> </td>
         <td> <a onclick="_play('zau1')"> au 周 </a> </td>
         <td> <a onclick="_play('zam1')"> am 斟 </a> </td>
@@ -356,7 +367,7 @@
 </table>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
-<p>a 和 oet 於 2018 年新增。</p>
+<p>a 和 oet 於 2018 年新增。請<a href="https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf" target="_blank" rel="noopener noreferrer">點此<ExternalLinkIcon/></a>查看何時使用。</p>
 </div>
 <p>Ref.: <a href="https://lshk.org/jyutping-scheme/" target="_blank" rel="noopener noreferrer">香港語言學學會粵語拼音方案-LSHK<ExternalLinkIcon/></a></p>
 </div></template>
