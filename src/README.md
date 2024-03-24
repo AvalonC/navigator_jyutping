@@ -3,6 +3,7 @@ home: true
 icon: home
 title: 首頁
 heroImage: logo.png
+heroFullScreen: true
 
 bgImageStyle:
   background-attachment: fixed
