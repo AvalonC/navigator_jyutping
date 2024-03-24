@@ -6,11 +6,16 @@ home: true
 heroText: 關於本站
 tagline: Navigator Jyutping
 ---
-## 鳴謝
 
 本站現時正在收集各類意見，歡迎粵語母語者，粵語學習者和使用者，内地用家致信提供建議 [點此發送郵件](mailto:Guanzhang.WANG@my.cityu.edu.hk)
 
-本站音頻由[粵語審音配詞字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)提供
+## 鳴謝
+
+本站所采用方案為香港語言學學會方案。
+
+![香港語言學學會](https://lshk.org/wp-content/uploads/2022/11/blankLSHK_banner-1024x219.png)
+
+本站音頻由[粵語審音配詞字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)和[粤拼](https://jyutping.org/)提供
 
 本站内容大量參考了來自粵語計算語言學基礎建設組 (CanCLID)的[Jyutping.org](https://jyutping.org/)站點内容，對此組織的工作致以衷心感謝！
 
@@ -32,8 +37,4 @@ tagline: Navigator Jyutping
   background="white"
 />
 
-本站所采用方案為香港語言學學會方案。
-
-![香港語言學學會](https://lshk.org/wp-content/uploads/2022/11/blankLSHK_banner-1024x219.png)
-
-
+感谢 LIU Ziyu先生(MScPHE)，LIANG Chuyi小姐(MScBIS)，CHEN Yiwen小姐(MScBIS)对本站内容的关注和建议！
