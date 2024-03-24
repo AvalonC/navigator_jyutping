@@ -2,7 +2,7 @@
 <h3 id="關於文字及表達語言之采用" tabindex="-1"><a class="header-anchor" href="#關於文字及表達語言之采用"><span>關於文字及表達語言之采用</span></a></h3>
 <p>考慮到香港地區所推行的兩文三語制度，其對應文字為繁體中文，因此本站僅采用繁體中文，爲便於内地學生學習，本站采用普通話表達。</p>
 <h3 id="關於本站所采用之拼音方案" tabindex="-1"><a class="header-anchor" href="#關於本站所采用之拼音方案"><span>關於本站所采用之拼音方案</span></a></h3>
-<p>本站所選用的是由<a href="https://lshk.org/" target="_blank" rel="noopener noreferrer">香港語言學學會<ExternalLinkIcon/></a>于1993年年底所推出的<strong>香港語言學學會粵語拼音方案</strong>，簡稱<strong>粵拼</strong></p>
+<p>本站所選用的是由<a href="https://lshk.org/" target="_blank" rel="noopener noreferrer">香港語言學學會<ExternalLinkIcon/></a>于1993年年底所推出的<strong>香港語言學學會粵語拼音方案</strong>，簡稱<strong>粵拼</strong>。</p>
 <p>相比較其他拼音方案，其優點在於：</p>
 <ul>
 <li>一個符號僅對應一個音，準確性好</li>

@@ -11,6 +11,7 @@ category:
 
 點擊音調組合，則會順序播放兩個音調，供讀者辨別。
 
+
 ![粵語六調](/Jyutping.png)
 
 <div style="display: flex;flex-direction: row;align-items: center;flex-wrap: wrap;justify-content: center;">
@@ -82,3 +83,5 @@ category:
 <br />
 <img src="/sample.png" height=auto />
 </div>
+
+要傾聽更多實例，請訪問[認識音調](https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/tone/recognizingTone/)

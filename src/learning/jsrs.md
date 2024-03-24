@@ -6,6 +6,7 @@ category:
 ---
 
 ::: info 發聲
+
 文中所有藍色之實例文字可點擊發聲，受限于資源請求的時間，點擊後將有一定時間的遲滯。
 試用例：
 | <a onclick="_play('zi1')">資</a> |
@@ -14,6 +15,13 @@ category:
 <a onclick="_play('tung2')">統</a> |
 <a onclick="_play('hok6')">學</a> |
 <a onclick="_play('hai6')">系</a> |
+
+:::
+
+::: tip 特別鳴謝
+
+本頁鏈接和資源由香港理工大學人文學院中國語文教學中心的[翻轉粵語教室](https://www.polyu.edu.hk/clc/cantonese/about/)提供
+
 :::
 
 ## 聲母表
@@ -119,6 +127,14 @@ category:
 ::: tip
 零聲母不用字母作標記，如「呀」只拼作 a a。
 :::
+
+::: info 聆聽實例與口型學習
+
+在本頁，你可以進行聲母的聆聽與口型對照，聲音提供男/女聲音供選擇。
+
+[聲母識讀和實例](https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/initial/recognizingInitial/)
+:::
+
 ## 韻母表
 
 ### 韻腹
@@ -193,6 +209,7 @@ category:
 </table>
 
 ### 韻母字例
+
 <table>
     <tr>
         <th colspan="2" rowspan="2">韻腹</th>
@@ -381,6 +398,13 @@ category:
 
 ::: tip
 a 和 oet 於 2018 年新增。請[點此](https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf)查看何時使用。
+:::
+
+::: info 聆聽實例與口型學習
+
+在本頁，你可以進行韻母的聆聽與口型對照，聲音提供男/女聲音供選擇。
+
+[韻母識讀和實例](https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/vowel/recognizingVowel/)
 :::
 
 Ref.: [香港語言學學會粵語拼音方案-LSHK](https://lshk.org/jyutping-scheme/)

@@ -3,7 +3,6 @@
 <ul>
 <li>寫法區別：該發音在普通話與粵語中發相同的音，但由於粵語有一些普通話所不包含的發音，從國際音標和字母限制的角度考慮，使用了不同的寫法。</li>
 <li>音系區別：該發音是粵語獨有的，需要額外的學習與記憶。</li>
-<li></li>
 </ul>
 <div class="hint-container info">
 <p class="hint-container-title">發聲</p>

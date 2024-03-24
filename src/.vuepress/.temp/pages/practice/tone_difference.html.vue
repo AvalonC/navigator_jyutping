@@ -70,6 +70,8 @@
 </table>
 <br />
 <img src="/sample.png" height=auto />
-</div></div></template>
+</div>
+<p>要傾聽更多實例，請訪問<a href="https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/tone/recognizingTone/" target="_blank" rel="noopener noreferrer">認識音調<ExternalLinkIcon/></a></p>
+</div></template>
 
 
