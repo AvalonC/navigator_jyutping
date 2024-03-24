@@ -4,6 +4,12 @@ function _play(soundname) {
     audio.play();
 }
 
+function _jyutpingPlay(soundname){
+    const audio = new Audio();
+    audio.src = "https://jyutping.org/audio/" + soundname + ".mp3";
+    audio.play();
+}
+
 function _compare(firstsound, secondsound) {
     const firstAudio = new Audio();
     firstAudio.src = "https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/sound/" + firstsound + ".wav"
