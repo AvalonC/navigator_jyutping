@@ -11,6 +11,8 @@ category:
 
 [Words.hk](https://words.hk/)
 
+[羊羊粵語](https://shyyp.net/)
+
 [粵音資料集叢](https://jyut.net/)
 
 [粵語審音配詞字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
