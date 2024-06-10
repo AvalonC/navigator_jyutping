@@ -1,6 +1,6 @@
 <template><div><p>粵文一般使用繁體中文進行書寫，因此沒有簡化字中多字合併的問題。</p>
 <details class="hint-container details"><summary>多字合併</summary>
-<p>關於内地簡化字的歸併問題，請參見<a href="http://www.kaom.net/font_jianhua_hbz.php" target="_blank" rel="noopener noreferrer">簡化合併字表<ExternalLinkIcon/></a>同<a href="http://www.kaom.net/font_jianhua_txz.php" target="_blank" rel="noopener noreferrer">簡化同形字表<ExternalLinkIcon/></a>。</p>
+<p>關於内地簡化字的歸併問題，請參見<a href="http://www.kaom.net/font_jianhua_hbz.php" target="_blank" rel="noopener noreferrer">簡化合併字表</a>同<a href="http://www.kaom.net/font_jianhua_txz.php" target="_blank" rel="noopener noreferrer">簡化同形字表</a>。</p>
 </details>
 <h2 id="常見錯別字表與推薦用字方案" tabindex="-1"><a class="header-anchor" href="#常見錯別字表與推薦用字方案"><span>常見錯別字表與推薦用字方案</span></a></h2>
 <div class="hint-container tip">
@@ -161,7 +161,7 @@
     </tr>
     </tbody>
 </table>
-<p>ref.: <a href="https://jyutping.org/blog/typo/" target="_blank" rel="noopener noreferrer">Jyutping<ExternalLinkIcon/></a></p>
+<p>ref.: <a href="https://jyutping.org/blog/typo/" target="_blank" rel="noopener noreferrer">Jyutping</a></p>
 </div></template>
 
 

@@ -13,8 +13,6 @@ tagline: Navigator Jyutping
 
 本站所采用方案為香港語言學學會方案。
 
-![香港語言學學會](https://lshk.org/wp-content/uploads/2022/11/blankLSHK_banner-1024x219.png)
-
 本站音頻由[粵語審音配詞字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)和[粤拼](https://jyutping.org/)提供
 
 本站内容大量參考了來自粵語計算語言學基礎建設組 (CanCLID)的[Jyutping.org](https://jyutping.org/)站點内容，對此組織的工作致以衷心感謝！

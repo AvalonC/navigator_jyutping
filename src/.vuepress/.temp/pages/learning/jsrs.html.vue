@@ -11,7 +11,7 @@
 </div>
 <div class="hint-container tip">
 <p class="hint-container-title">特別鳴謝</p>
-<p>本頁部分鏈接和資源由香港理工大學人文學院中國語文教學中心的<a href="https://www.polyu.edu.hk/clc/cantonese/about/" target="_blank" rel="noopener noreferrer">翻轉粵語教室<ExternalLinkIcon/></a>提供</p>
+<p>本頁部分鏈接和資源由香港理工大學人文學院中國語文教學中心的<a href="https://www.polyu.edu.hk/clc/cantonese/about/" target="_blank" rel="noopener noreferrer">翻轉粵語教室</a>提供</p>
 </div>
 <h2 id="聲母表" tabindex="-1"><a class="header-anchor" href="#聲母表"><span>聲母表</span></a></h2>
 <table>
@@ -118,7 +118,7 @@
 <div class="hint-container info">
 <p class="hint-container-title">聆聽實例與口型學習</p>
 <p>在本頁，你可以進行聲母的聆聽與口型對照，聲音提供男/女聲音供選擇。</p>
-<p><a href="https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/initial/recognizingInitial/" target="_blank" rel="noopener noreferrer">聲母識讀和實例<ExternalLinkIcon/></a></p>
+<p><a href="https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/initial/recognizingInitial/" target="_blank" rel="noopener noreferrer">聲母識讀和實例</a></p>
 </div>
 <h2 id="韻母表" tabindex="-1"><a class="header-anchor" href="#韻母表"><span>韻母表</span></a></h2>
 <h3 id="韻腹" tabindex="-1"><a class="header-anchor" href="#韻腹"><span>韻腹</span></a></h3>
@@ -376,14 +376,14 @@
 </table>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
-<p>a 和 oet 於 2018 年新增。請<a href="https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf" target="_blank" rel="noopener noreferrer">點此<ExternalLinkIcon/></a>查看何時使用。</p>
+<p>a 和 oet 於 2018 年新增。請<a href="https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf" target="_blank" rel="noopener noreferrer">點此</a>查看何時使用。</p>
 </div>
 <div class="hint-container info">
 <p class="hint-container-title">聆聽實例與口型學習</p>
 <p>在本頁，你可以進行韻母的聆聽與口型對照，聲音提供男/女聲音供選擇。</p>
-<p><a href="https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/vowel/recognizingVowel/" target="_blank" rel="noopener noreferrer">韻母識讀和實例<ExternalLinkIcon/></a></p>
+<p><a href="https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/vowel/recognizingVowel/" target="_blank" rel="noopener noreferrer">韻母識讀和實例</a></p>
 </div>
-<p>Ref.: <a href="https://lshk.org/jyutping-scheme/" target="_blank" rel="noopener noreferrer">香港語言學學會粵語拼音方案-LSHK<ExternalLinkIcon/></a></p>
+<p>Ref.: <a href="https://lshk.org/jyutping-scheme/" target="_blank" rel="noopener noreferrer">香港語言學學會粵語拼音方案-LSHK</a></p>
 </div></template>
 
 
