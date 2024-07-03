@@ -3,8 +3,6 @@ title: 香港語言學學會粵語拼音方案
 icon: book
 category:
   - 學習
-sidebar: false
-
 ---
 
 ::: info 發聲

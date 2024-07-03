@@ -4,6 +4,39 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  
+  locales: {
+    "/": {
+      navbarLocales: {
+        langName: "🌏粵語"
+      }
+    },
+    "/en/": {
+      navbarLocales: {
+        langName: "🌍English"
+      }
+    },
+    "/wu/": {
+      navbarLocales: {
+        langName: "🌏吴语"
+      }
+    },
+    "/min/": {
+      navbarLocales: {
+        langName: "🌏閩南語"
+      }
+    },
+    "/vi/": {
+      navbarLocales: {
+        langName: "🌏Tiếng Việt"
+      }
+    },
+    "/mandarin/": {
+      navbarLocales:{
+        langName: "🌏普通話/國語"
+      }
+    },
+  },
 
   author: {
     name: "AvalonC",

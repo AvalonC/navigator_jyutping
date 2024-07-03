@@ -37,14 +37,14 @@ actions:
     link: ./resource/
 
 highlights:
-  - header: 點解要學粵拼？
+  - header: 爲什麽要學習粵拼？
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: 漢字非拼音文字，需要一個拼音方案嚟準確表示粵語嘅發音
-      - title: 學識粵拼可以幫助糾正懶音錯音，規範自己嘅粵語口音。學普通話要學普通話拼音，學粵語就要學粵拼。
-      - title: 學識粵拼，可以用粵拼輸入法嚟打粵語，作爲最自然簡單嘅打字方式。
+      - title: 漢字并非拼音文字，需要一個拼音方案來準確表達粵語的發音。
+      - title: 學普通話要學普通話拼音，學粵語就要學粵拼。掌握粵拼可以幫助糾正懶音錯音，規範自己的粵語發音。
+      - title: 學會了粵拼，就能用粵拼輸入法作爲最自然簡單的打字方式輸入粵語。
 
   - header: 已經會粵語？唔知點樣輸入？
     image: /assets/image/features.svg
