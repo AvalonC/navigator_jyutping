@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import type { ThemeLocaleData } from "vuepress-theme-hope"
 
 export default defineUserConfig({
 
@@ -13,23 +14,27 @@ export default defineUserConfig({
   base: "/navigator_jyutping/",
 
   locales: {
+
     "/": {
       lang: "zh-TW",
       title: "Navigator Jyutping",
       description: "Navigator粵拼",
     },
-    "/mandarin/": {
+
+    "/cmn/": {
       lang: "zh-CN",
       title: "Navigator Jyutping",
       description: "Navigator粵拼",
     },
-    "/wu/": {
-      lang: "zh-TW",
+
+    "/wuu/": {
+      lang: "zh-wuu",
       title: "Navigator Jyutping",
       description: "Navigator粵拼",
     },
-    "/min/": {
-      lang: "zh-TW",
+
+    "/nan/": {
+      lang: "zh-nan",
       title: "Navigator Jyutping",
       description: "Navigator粵拼",
     },

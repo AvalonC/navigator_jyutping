@@ -99,5 +99,5 @@ highlights:
       link: https://jyutping.net/
 
 copyright: false
-footer: 2024-present BIS Navigator
+footer: 2024-present CanCLID
 ---

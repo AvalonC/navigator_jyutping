@@ -15,6 +15,6 @@ category:
     title="【廣東話教室】52 分鐘學識 LSHK 粵拼"
 />
 
-[訪問原始視頻](https://youtu.be/MOsf0BcLzlc?si=XTsyqKD9Jp8dqGk2)
+[訪問原始視頻（YouTube）](https://youtu.be/MOsf0BcLzlc?si=XTsyqKD9Jp8dqGk2)
 
 <catalog />

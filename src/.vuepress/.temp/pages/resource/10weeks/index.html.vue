@@ -5,7 +5,7 @@
     src="youtube/MOsf0BcLzlc"
     title="【廣東話教室】52 分鐘學識 LSHK 粵拼"
 />
-<p><a href="https://youtu.be/MOsf0BcLzlc?si=XTsyqKD9Jp8dqGk2" target="_blank" rel="noopener noreferrer">訪問原始視頻</a></p>
+<p><a href="https://youtu.be/MOsf0BcLzlc?si=XTsyqKD9Jp8dqGk2" target="_blank" rel="noopener noreferrer">訪問原始視頻（YouTube）</a></p>
 <catalog /></div></template>
 
 

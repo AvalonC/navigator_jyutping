@@ -1,103 +1,13 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-  
-  locales: {
-    "/": {
-      navbarLocales: {
-        langName: "🌏粵語"
-      }
-    },
-    "/en/": {
-      navbarLocales: {
-        langName: "🌍English"
-      }
-    },
-    "/wu/": {
-      navbarLocales: {
-        langName: "🌏吴语"
-      }
-    },
-    "/min/": {
-      navbarLocales: {
-        langName: "🌏閩南語"
-      }
-    },
-    "/vi/": {
-      navbarLocales: {
-        langName: "🌏Tiếng Việt"
-      }
-    },
-    "/mandarin/": {
-      navbarLocales:{
-        langName: "🌏普通話/國語"
-      }
-    },
-  },
-
-  author: {
-    name: "AvalonC",
-    url: "https://avalonc.github.io",
-  },
-
-  iconAssets: "fontawesome-with-brands",
-
-  logo: "logo.png",
-
-  repo: "avalonc/navigator_jyutping",
-
-  docsDir: "src",
-
-  favicon: "favicon.ico",
-
-  // 导航栏
-  navbar,
-
-  // 侧边栏
-  sidebar,
-
-  // 页脚
-  footer: "Navigator Jyutping",
-  displayFooter: true,
-
-  // 加密配置
-  // encrypt: {
-  //   config: {
-  //     "/demo/encrypt.html": ["1234"],
-  //   },
-  // },
-
-  // 多语言配置
-  // metaLocales: {
-  //   editLink: "在 GitHub 上编辑此页",
-  // },
-
-  // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
-  hotReload: true,
-
-  // 在这里配置主题提供的插件
-  plugins: {
-    // 你应该自行生成自己的评论服务
-    // comment: {
-    //   provider: "Giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
-    // },
-
-    components: {
-      components: ["Badge", "VPCard", "SiteInfo", "VidStack"],
-    },
-
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
+    markdown: {
       align: true,
       attrs: true,
-      codetabs: true,
+      codeTabs: true,
       component: true,
       demo: false,
       figure: true,
@@ -123,6 +33,7 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       hint: true,
+      
       // 在启用之前安装 chart.js
       // chart: true,
 
@@ -161,62 +72,249 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
+  locales: {
+    "/": {
+      navbarLocales: {
+        langName: "🌏粵語"
+      },
+      navbar:[
+        "/learning/",
+        "/jsrs",
+        "/practice/",
+        "/research/",
+        "/resource/",
+        "about"
+      ]
+    },
+    "/en/": {
+      navbarLocales: {
+        langName: "🌍English"
+      },
+      navbar:[
+        "/en/learning/",
+        "/en/jsrs",
+        "/en/practice/",
+        "/en/research/",
+        "/en/resource/",
+        "/en/about"
+      ]
+    },
+    "/wuu/": {
+      navbarLocales: {
+        langName: "🌏吴语",
+        selectLangAriaLabel: "选择语言",
+      },
+      navbar:[
+        "/wuu/learning/",
+        "/wuu/jsrs",
+        "/wuu/practice/",
+        "/wuu/research/",
+        "/wuu/resource/",
+        "/wuu/about"
+      ],
+      metaLocales: {
+        author: "Author",
+        date: "Writing Date",
+        origin: "Original",
+        views: "Page views",
+        category: "Category",
+        tag: "Tag",
+        readingTime: "Reading Time",
+        words: "Words",
+        toc: "On This Page",
+        prev: "Prev",
+        next: "Next",
+        lastUpdated: "Last update",
+        contributors: "Contributors",
+        editLink: "Edit this page",
+        print: "Print",
+      },
+      blogLocales: {
+        article: "Articles",
+        articleList: "Article List",
+        category: "Category",
+        tag: "Tag",
+        timeline: "Timeline",
+        timelineTitle: "Yesterday Once More!",
+        all: "All",
+        intro: "Personal Intro",
+        star: "Star",
+        empty: "No $text",
+      },
 
-    // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
-    // pwa: {
-    //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cachePic: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "/assets/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "/assets/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
-    //   manifest: {
-    //     icons: [
-    //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
-    //         sizes: "512x512",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
-    //         sizes: "192x192",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-512.png",
-    //         sizes: "512x512",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-192.png",
-    //         sizes: "192x192",
-    //         type: "image/png",
-    //       },
-    //     ],
-    //     shortcuts: [
-    //       {
-    //         name: "Demo",
-    //         short_name: "Demo",
-    //         url: "/demo/",
-    //         icons: [
-    //           {
-    //             src: "/assets/icon/guide-maskable.png",
-    //             sizes: "192x192",
-    //             purpose: "maskable",
-    //             type: "image/png",
-    //           },
-    //         ],
-    //       },
-    //     ],
-    //   },
-    // },
+      paginationLocales: {
+        prev: "Prev",
+        next: "Next",
+        navigate: "Jump to",
+        action: "Go",
+        errorText: "Please enter a number between 1 and $page !",
+      },
+
+      outlookLocales: {
+        themeColor: "Theme Color",
+        darkmode: "Theme Mode",
+        fullscreen: "Full Screen",
+      },
+
+      encryptLocales: {
+        iconLabel: "Page Encrypted",
+        placeholder: "Enter password",
+        remember: "Remember password",
+        errorHint: "Please enter the correct password!",
+      },
+
+      routeLocales: {
+        skipToContent: "Skip to main content",
+        notFoundTitle: "Page not found",
+        notFoundMsg: [
+          "There’s nothing here.",
+          "How did we get here?",
+          "That’s a Four-Oh-Four.",
+          "Looks like we've got some broken links.",
+        ],
+        back: "Go back",
+        home: "Take me home",
+      },
+    },
+    "/nan/": {
+      navbarLocales: {
+        langName: "🌏閩南語"
+      },
+      navbar:[
+        "/nan/learning/",
+        "/nan/jsrs",
+        "/nan/practice/",
+        "/nan/research/",
+        "/nan/resource/",
+        "/nan/about"
+      ],
+      metaLocales: {
+        author: "Author",
+        date: "Writing Date",
+        origin: "Original",
+        views: "Page views",
+        category: "Category",
+        tag: "Tag",
+        readingTime: "Reading Time",
+        words: "Words",
+        toc: "On This Page",
+        prev: "Prev",
+        next: "Next",
+        lastUpdated: "Last update",
+        contributors: "Contributors",
+        editLink: "Edit this page",
+        print: "Print",
+      },
+      blogLocales: {
+        article: "Articles",
+        articleList: "Article List",
+        category: "Category",
+        tag: "Tag",
+        timeline: "Timeline",
+        timelineTitle: "Yesterday Once More!",
+        all: "All",
+        intro: "Personal Intro",
+        star: "Star",
+        empty: "No $text",
+      },
+
+      paginationLocales: {
+        prev: "Prev",
+        next: "Next",
+        navigate: "Jump to",
+        action: "Go",
+        errorText: "Please enter a number between 1 and $page !",
+      },
+
+      outlookLocales: {
+        themeColor: "Theme Color",
+        darkmode: "Theme Mode",
+        fullscreen: "Full Screen",
+      },
+
+      encryptLocales: {
+        iconLabel: "Page Encrypted",
+        placeholder: "Enter password",
+        remember: "Remember password",
+        errorHint: "Please enter the correct password!",
+      },
+
+      routeLocales: {
+        skipToContent: "Skip to main content",
+        notFoundTitle: "Page not found",
+        notFoundMsg: [
+          "There’s nothing here.",
+          "How did we get here?",
+          "That’s a Four-Oh-Four.",
+          "Looks like we've got some broken links.",
+        ],
+        back: "Go back",
+        home: "Take me home",
+      },
+    },
+
+    "/vi/": {
+      navbarLocales: {
+        langName: "🌏Tiếng Việt"
+      },
+      navbar:[
+        "/vi/learning/",
+        "/vi/jsrs",
+        "/vi/practice/",
+        "/vi/research/",
+        "/vi/resource/",
+        "/vi/about"
+      ]
+    },
+    
+    "/cmn/": {
+      navbarLocales:{
+        langName: "🌏普通話/國語"
+      },
+      navbar:[
+        "/cmn/learning/",
+        "/cmn/jsrs",
+        "/cmn/practice/",
+        "/cmn/research/",
+        "/cmn/resource/",
+        "/cmn/about"
+      ]
+    },
+  },
+
+  author: {
+    name: "CanCLID",
+    url: "https://github.com/CanCLID",
+  },
+
+  logo: "logo.png",
+
+  repo: "avalonc/navigator_jyutping",
+
+  docsDir: "src",
+
+  favicon: "favicon.ico",
+
+  // 侧边栏
+  sidebar,
+
+  // 页脚
+  footer: "2024-present CanCLID",
+  displayFooter: true,
+
+  hotReload: true,
+
+  // 在这里配置主题提供的插件
+  plugins: {
+
+    icon: {
+      // 关键词: "iconify", "fontawesome", "fontawesome-with-brands"
+      assets: "fontawesome"
+    },
+  
+    components: {
+      components: ["Badge", "VPCard", "SiteInfo", "BiliBili"],
+    },
+
   },
 });
