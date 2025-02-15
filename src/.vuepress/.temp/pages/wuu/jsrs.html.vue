@@ -112,7 +112,7 @@
     </tr>
 </table>
 <div class="hint-container tip">
-<p class="hint-container-title">ヒント</p>
+<p class="hint-container-title">Tips</p>
 <p>零聲母不用字母作標記，如「呀」只拼作 a a。</p>
 </div>
 <div class="hint-container info">
@@ -375,7 +375,7 @@
     </tr>
 </table>
 <div class="hint-container tip">
-<p class="hint-container-title">ヒント</p>
+<p class="hint-container-title">Tips</p>
 <p>a 和 oet 於 2018 年新增。請<a href="https://e40058f5-5f04-4db7-8d70-4650bee22b88.filesusr.com/ugd/508b98_8bead2fef24f46e79eba9bc86faf3075.pdf" target="_blank" rel="noopener noreferrer">點此</a>查看何時使用。</p>
 </div>
 <div class="hint-container info">

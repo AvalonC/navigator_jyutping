@@ -1,5 +1,4 @@
-<template><div><h2 id="鳴謝" tabindex="-1"><a class="header-anchor" href="#鳴謝"><span>鳴謝</span></a></h2>
-<p>本站由粵語計算語言學基礎建設組建成，並得到香港語言學學會 (LSHK) 嘅協助。網站源碼全部開源喺GitHub，歡迎外界貢獻。</p>
+<template><div><p>本站由粵語計算語言學基礎建設組建成，並得到香港語言學學會 (LSHK) 嘅協助。網站源碼<a href="https://github.com/CanCLID/jyutping.org" target="_blank" rel="noopener noreferrer">全部開源喺 GitHub</a>，歡迎外界貢獻。</p>
 <VPCard
   title="粵語計算語言學基礎建設組 (CanCLID)"
   desc="Cantonese Computational Linguistics Infrastructure Development Workgroup"
@@ -7,6 +6,7 @@
   link="https://github.com/CanCLID"
   background="white"
 />
+<h2 id="鳴謝" tabindex="-1"><a class="header-anchor" href="#鳴謝"><span>鳴謝</span></a></h2>
 <p>感謝 LSHK 粵拼小組同粵典對本站嘅支持。特別鳴謝 Chaak-ming Lau 博士，Andy Chin 博士，Kwan-hin Cheung 博士，Raymond Tze 先生同 Zungman Ceoi 先生爲建設本站提供嘅幫助。</p>
 <p>感謝 Lim Hian-tong 先生提供本站臺灣閩南語版本。</p>
 <p>感謝具區句魚先生提供本站吳語版本。</p>
@@ -19,7 +19,7 @@
   link="https://hambaanglaang.hk/"
   background="white"
 />
-<p>感谢 LIU Ziyu先生(MScPHE)，LIANG Chuyi小姐(MScBIS)，CHEN Yiwen小姐(MScBIS)对本站内容的关注同建议！</p>
+<p>感谢 LIU Ziyu 先生(MScPHE)，LIANG Chuyi 小姐(MScBIS)，CHEN Yiwen 小姐(MScBIS)对本站内容的关注同建议！</p>
 <h2 id="開發及貢獻" tabindex="-1"><a class="header-anchor" href="#開發及貢獻"><span>開發及貢獻</span></a></h2>
 <p>如果你想支持粵拼或參與到我哋嘅事務中，你可以：</p>
 <ul>

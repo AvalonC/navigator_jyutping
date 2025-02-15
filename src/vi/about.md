@@ -1,10 +1,9 @@
 ---
-
 title: 關於
 icon: circle-info
 home: true
 heroText: 關於本站
-tagline: Navigator Jyutping
+tagline: 粵拼
 ---
 
 本站現時正在收集各類意見，歡迎粵語母語者，粵語學習者和使用者，内地用家致信提供建議 [點此發送郵件](mailto:Guanzhang.WANG@my.cityu.edu.hk)
@@ -35,4 +34,4 @@ tagline: Navigator Jyutping
   background="white"
 />
 
-感谢 LIU Ziyu先生(MScPHE)，LIANG Chuyi小姐(MScBIS)，CHEN Yiwen小姐(MScBIS)对本站内容的关注和建议！
+感谢 LIU Ziyu 先生(MScPHE)，LIANG Chuyi 小姐(MScBIS)，CHEN Yiwen 小姐(MScBIS)对本站内容的关注和建议！

@@ -1,5 +1,5 @@
-import comp from "/home/avalonc/navigator-jyutping/src/.vuepress/.temp/pages/404.html.vue"
-const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"zh-TW\",\"frontmatter\":{\"layout\":\"NotFound\"},\"headers\":[],\"git\":{},\"readingTime\":{\"minutes\":0.01,\"words\":3},\"filePathRelative\":null}")
+import comp from "/Users/laufei/Documents/GitHub/navigator_jyutping/src/.vuepress/.temp/pages/404.html.vue"
+const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"yue\",\"frontmatter\":{\"layout\":\"NotFound\"},\"headers\":[],\"git\":{},\"readingTime\":{\"minutes\":0.01,\"words\":3},\"filePathRelative\":null}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

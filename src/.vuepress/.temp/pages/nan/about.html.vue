@@ -18,7 +18,7 @@
   link="https://hambaanglaang.hk/"
   background="white"
 />
-<p>感谢 LIU Ziyu先生(MScPHE)，LIANG Chuyi小姐(MScBIS)，CHEN Yiwen小姐(MScBIS)对本站内容的关注和建议！</p>
+<p>感谢 LIU Ziyu 先生(MScPHE)，LIANG Chuyi 小姐(MScBIS)，CHEN Yiwen 小姐(MScBIS)对本站内容的关注和建议！</p>
 </div></template>
 
 

@@ -1,16 +1,12 @@
 ---
-
 title: 關於
 icon: circle-info
 home: true
 heroText: 關於本站
-tagline: Navigator Jyutping
+tagline: jyutping.org
 ---
 
-## 鳴謝
-
-
-本站由粵語計算語言學基礎建設組建成，並得到香港語言學學會 (LSHK) 嘅協助。網站源碼全部開源喺GitHub，歡迎外界貢獻。
+本站由粵語計算語言學基礎建設組建成，並得到香港語言學學會 (LSHK) 嘅協助。網站源碼[全部開源喺 GitHub](https://github.com/CanCLID/jyutping.org)，歡迎外界貢獻。
 
 <VPCard
   title="粵語計算語言學基礎建設組 (CanCLID)"
@@ -19,6 +15,8 @@ tagline: Navigator Jyutping
   link="https://github.com/CanCLID"
   background="white"
 />
+
+## 鳴謝
 
 感謝 LSHK 粵拼小組同粵典對本站嘅支持。特別鳴謝 Chaak-ming Lau 博士，Andy Chin 博士，Kwan-hin Cheung 博士，Raymond Tze 先生同 Zungman Ceoi 先生爲建設本站提供嘅幫助。
 
@@ -38,9 +36,10 @@ tagline: Navigator Jyutping
   background="white"
 />
 
-感谢 LIU Ziyu先生(MScPHE)，LIANG Chuyi小姐(MScBIS)，CHEN Yiwen小姐(MScBIS)对本站内容的关注同建议！
+感谢 LIU Ziyu 先生(MScPHE)，LIANG Chuyi 小姐(MScBIS)，CHEN Yiwen 小姐(MScBIS)对本站内容的关注同建议！
 
 ## 開發及貢獻
+
 如果你想支持粵拼或參與到我哋嘅事務中，你可以：
 
 - 發郵件到[support@jyutping.org](mailto:support@jyutping.org)話畀我哋知你嘅諗法或者反饋意見。

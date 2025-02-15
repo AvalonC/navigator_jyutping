@@ -1,21 +1,22 @@
 {
-  "name": "navigator-jyutping",
+  "name": "jyutping.org",
   "version": "1.0.0",
-  "description": "A project to help cantonese learning, belongs to BIS Navigator",
+  "description": "粵拼網",
   "license": "MIT",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
     "docs:dev": "vuepress-vite dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:update-package": "npx npm-check-updates -u && npm install"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@vuepress/bundler-vite": "^2.0.0-rc.19",
+    "@vuepress/theme-default": "^2.0.0-rc.76",
     "sass-embedded": "^1.85.0",
     "vidstack": "^1.12.12",
     "vue": "^3.5.13",
-    "vuepress": "2.0.0-rc.19",
+    "vuepress": "^2.0.0-rc.19",
     "vuepress-theme-hope": "2.0.0-rc.71"
   }
 }

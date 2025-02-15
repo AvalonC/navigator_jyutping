@@ -2,55 +2,60 @@ import { defineUserConfig } from "vuepress";
 import { hopeTheme } from "vuepress-theme-hope";
 import sidebar from "./sidebar.js";
 
-
 export default defineUserConfig({
-
   head: [
     ["script", { src: "/navigator_jyutping/js/soundplay.js" }],
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
-    ["link", { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" }],
-    ["link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;900&display=swap" }]
+    [
+      "link",
+      { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
+    ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;900&display=swap",
+      },
+    ],
   ],
 
   base: "/navigator_jyutping/",
 
   locales: {
-
     "/": {
-      lang: "zh-TW",
-      title: "Navigator Jyutping",
-      description: "Navigator粵拼",
+      lang: "yue",
+      title: "粵拼",
+      description: "粵拼參考網，香港語言學學會認證網站",
     },
 
     "/cmn/": {
-      lang: "zh-CN",
-      title: "Navigator Jyutping",
-      description: "Navigator粵拼",
+      lang: "cmn",
+      title: "粵拼",
+      description: "粵拼參考網，香港語言學學會認證網站",
     },
 
     "/wuu/": {
-      lang: "ja-JP",
-      title: "Navigator Jyutping",
-      description: "Navigator粵拼",
+      lang: "wuu",
+      title: "粵拼",
+      description: "粵拼參考網，香港語言學學會認證網站",
     },
 
     "/nan/": {
-      lang: "ko-KR",
-      title: "Navigator Jyutping",
-      description: "Navigator粵拼",
+      lang: "nan",
+      title: "粵拼",
+      description: "粵拼參考網，香港語言學學會認證網站",
     },
 
     "/en/": {
-      lang: "en-US",
-      title: "Navigator Jyutping",
-      description: "Navigator Jyutping",
+      lang: "en",
+      title: "粵拼",
+      description: "粵拼",
     },
     "/vi/": {
-      lang: "vi-VN",
-      title: "Navigator Jyutping",
-      description: "Điều hướng Việt bính"
+      lang: "vi",
+      title: "粵拼",
+      description: "Điều hướng Việt bính",
     },
-
   },
 
   theme: hopeTheme({
@@ -125,7 +130,7 @@ export default defineUserConfig({
     locales: {
       "/": {
         navbarLocales: {
-          langName: "🌏粵語"
+          langName: "🌏粵語",
         },
         navbar: [
           "/learning/",
@@ -133,12 +138,12 @@ export default defineUserConfig({
           "/practice/",
           "/research/",
           "/resource/",
-          "about"
-        ]
+          "about",
+        ],
       },
       "/en/": {
         navbarLocales: {
-          langName: "🌍English"
+          langName: "🌍English",
         },
         navbar: [
           "/en/learning/",
@@ -146,8 +151,8 @@ export default defineUserConfig({
           "/en/practice/",
           "/en/research/",
           "/en/resource/",
-          "/en/about"
-        ]
+          "/en/about",
+        ],
       },
       "/wuu/": {
         navbarLocales: {
@@ -159,12 +164,12 @@ export default defineUserConfig({
           "/wuu/practice/",
           "/wuu/research/",
           "/wuu/resource/",
-          "/wuu/about"
+          "/wuu/about",
         ],
       },
       "/nan/": {
         navbarLocales: {
-          langName: "🌏閩南語"
+          langName: "🌏閩南語",
         },
 
         navbar: [
@@ -173,14 +178,13 @@ export default defineUserConfig({
           "/nan/practice/",
           "/nan/research/",
           "/nan/resource/",
-          "/nan/about"
+          "/nan/about",
         ],
-
       },
 
       "/vi/": {
         navbarLocales: {
-          langName: "🌏Tiếng Việt"
+          langName: "🌏Tiếng Việt",
         },
         navbar: [
           "/vi/learning/",
@@ -188,13 +192,13 @@ export default defineUserConfig({
           "/vi/practice/",
           "/vi/research/",
           "/vi/resource/",
-          "/vi/about"
-        ]
+          "/vi/about",
+        ],
       },
 
       "/cmn/": {
         navbarLocales: {
-          langName: "🌏普通話/國語"
+          langName: "🌏普通話/國語",
         },
         navbar: [
           "/cmn/learning/",
@@ -202,8 +206,8 @@ export default defineUserConfig({
           "/cmn/practice/",
           "/cmn/research/",
           "/cmn/resource/",
-          "/cmn/about"
-        ]
+          "/cmn/about",
+        ],
       },
     },
 
@@ -224,25 +228,21 @@ export default defineUserConfig({
     sidebar,
 
     // 页脚
-    footer: "2024-present CanCLID",
+    footer: "粵語計算語言學基礎建設組 CanCLID",
     displayFooter: true,
 
     hotReload: true,
 
     // 在这里配置主题提供的插件
     plugins: {
-
       icon: {
         // 关键词: "iconify", "fontawesome", "fontawesome-with-brands"
-        assets: "fontawesome"
+        assets: "fontawesome",
       },
 
       components: {
         components: ["Badge", "VPCard", "SiteInfo", "BiliBili"],
       },
-
     },
-
-  })
+  }),
 });
-
